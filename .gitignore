@@ -1,0 +1,5 @@
+__pycache__
+*.docx
+*.txt
+.scrapy/*
+.DS_Store
